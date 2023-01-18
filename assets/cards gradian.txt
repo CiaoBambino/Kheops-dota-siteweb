@@ -1,0 +1,7 @@
+background-image: linear-gradient(to top, #000000, #3f1b23, #7e2e37, #bf4443, #ff6146);
+
+background-image: linear-gradient(to top, #000000, #212121, #3d3d3d, #5a5a5a, #7a7a7a);
+
+https://mycolor.space/gradient?ori=to+top&hex=%23000000&hex2=%23FF6146&sub=1
+
+https://mycolor.space/gradient?ori=to+top&hex=%23000000&hex2=%237A7A7A&sub=1
