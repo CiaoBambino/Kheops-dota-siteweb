@@ -1,3 +1,5 @@
+Website for Kheops, dota account booster.
+
 TODO LIST :
 
 -- make the pricelist section responsiv again;
